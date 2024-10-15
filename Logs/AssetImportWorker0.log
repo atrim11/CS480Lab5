@@ -836,3 +836,7 @@ Start importing Assets/Samples/XR Interaction Toolkit/2.6.3/Starter Assets/DemoS
  -> (artifact id: '4ef356ca52079cd040c0b0317e24af29') in 0.006521 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 72
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 89, details: Operation aborted.
+AssetImportWorker is now disconnected from the server
+Process exiting
